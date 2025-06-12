@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom"
 
 function Header() {
     return (
@@ -11,18 +12,18 @@ function Header() {
                 </div>
 
                 <nav className="hidden md:flex items-center gap-8">
-                    <a
+                    <Link
                         className="text-sm font-mono uppercase tracking-wider transition-colors hover:text-primary-500"
-                        href="/about"
+                        to="/about"
                     >
                         About
-                    </a>
-                    <a
+                    </Link>
+                    <Link
                         className="text-sm font-mono uppercase tracking-wider transition-colors hover:text-primary-500"
-                        href="/careers"
+                        to="/careers"
                     >
                         Careers
-                    </a>
+                    </Link>
                 </nav>
 
                 <button
