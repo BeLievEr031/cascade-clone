@@ -5,7 +5,7 @@ function Header() {
 
             <div className="max-w-6xl mx-auto px-4 h-16 flex items-center justify-between">
                 <div className="flex items-center gap-4">
-                    <h1 className="text-3xl tracking-tight font-[300] uppercase">
+                    <h1 className="text-3xl tracking-tight font-[300] uppercase font-heading">
                         Cascade Space
                     </h1>
                 </div>
