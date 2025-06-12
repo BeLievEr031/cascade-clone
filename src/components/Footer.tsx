@@ -82,7 +82,7 @@ function Footer() {
                                             height={16}
                                             decoding="async"
                                             data-nimg={1}
-                                            src="/images/x-logo.svg"
+                                            src="https://cascade.space/images/x-logo.svg"
                                             style={{ color: "transparent" }}
                                         />
                                     </div>
@@ -102,7 +102,7 @@ function Footer() {
                                             height={16}
                                             decoding="async"
                                             data-nimg={1}
-                                            src="/images/instagram-logo.svg"
+                                            src="https://cascade.space/images/instagram-logo.svg"
                                             style={{ color: "transparent" }}
                                         />
                                     </div>
@@ -122,7 +122,7 @@ function Footer() {
                                             height={16}
                                             decoding="async"
                                             data-nimg={1}
-                                            src="/images/linkedin_white.png"
+                                            src="https://cascade.space/images/linkedin_white.png"
                                             style={{ color: "transparent" }}
                                         />
                                     </div>
